@@ -28,7 +28,7 @@ O jogo detecta automaticamente se você está usando o teclado ou um controle!
 | :--- | :--- | :--- |
 | **Andar** | Setas `Esquerda / Direita` ou `A / D` | Analógico Esquerdo ou D-Pad |
 | **Pular** | Seta `Cima`, `W` ou `Espaço` | Botão `A` (Xbox) / `X` (PS) |
-| **Confirmar (Menus)** | `Enter` | Botão `A` / Botão `Start` |
+| **Confirmar (Menus)** | `Enter` | Botão `A` / Botão `X` |
 | **Resetar (Game Over)** | `Enter` | Botão `B` (Xbox) / `O` (PS) |
 
 ## Observações finais
