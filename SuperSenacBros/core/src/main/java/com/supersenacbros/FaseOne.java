@@ -238,7 +238,7 @@ Char.setSize(24, 40); // Começa pequeno
 	    SelectSound = Gdx.audio.newSound(Gdx.files.internal("SelectMenu.wav"));
 	    KillEnemy = Gdx.audio.newSound(Gdx.files.internal("KillEnemy.wav"));
 	    LossMush = Gdx.audio.newSound(Gdx.files.internal("LossMush.wav"));
-	    DrinkCoffe = Gdx.audio.newSound(Gdx.files.internal("drinkCoffee.wav"));
+	    DrinkCoffe = Gdx.audio.newSound(Gdx.files.internal("drinkcoffee.wav"));
 	    LifeIncremental = Gdx.audio.newSound(Gdx.files.internal("LifeIncremental.wav"));
 	    
 
@@ -258,8 +258,8 @@ Char.setSize(24, 40); // Começa pequeno
 		
 		
 
-		vposx = 5773;
-		vposy = 200f;
+		vposx = 20;
+		vposy = 64.5f;
 		CharBox = new Rectangle(vposx + 4, vposy, 16, 32);
 		isBig = false; // Garante que começa falso ao resetar a fase
 		isWinning = false;

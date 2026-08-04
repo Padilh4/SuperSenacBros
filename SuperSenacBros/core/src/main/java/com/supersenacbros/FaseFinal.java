@@ -284,7 +284,7 @@ Char.setSize(24, 38); // Começa pequeno
 	    SelectSound = Gdx.audio.newSound(Gdx.files.internal("SelectMenu.wav"));
 	    KillEnemy = Gdx.audio.newSound(Gdx.files.internal("KillEnemy.wav"));
 	    LossMush = Gdx.audio.newSound(Gdx.files.internal("LossMush.wav"));
-	    DrinkCoffe = Gdx.audio.newSound(Gdx.files.internal("drinkCoffee.wav"));
+	    DrinkCoffe = Gdx.audio.newSound(Gdx.files.internal("drinkcoffee.wav"));
 	    LifeIncremental = Gdx.audio.newSound(Gdx.files.internal("LifeIncremental.wav"));
 	    HackSound = Gdx.audio.newSound(Gdx.files.internal("HackerSound.wav"));
 	    LaughSound = Gdx.audio.newSound(Gdx.files.internal("LaughSound.wav"));
