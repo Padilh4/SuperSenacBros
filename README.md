@@ -32,7 +32,7 @@ O jogo detecta automaticamente se você está usando o teclado ou um controle!
 | **Resetar (Game Over)** | `Enter` | Botão `B` (Xbox) / `O` (PS) |
 
 ## Observações finais
-Para uso do banco de dados para guardar os scores dos jogadores, apenas instale o arquivo PLAYERS_DB e utilize o código mysql no seu computador local.
+Para uso do banco de dados para guardar os scores dos jogadores, apenas instale o arquivo PLAYERS_DB.sql e utilize o código mysql no seu computador local.
 
 ## Desenvolvedores
  
