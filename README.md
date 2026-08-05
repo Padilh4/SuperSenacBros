@@ -32,7 +32,7 @@ O jogo detecta automaticamente se você está usando o teclado ou um controle!
 | **Resetar (Game Over)** | `Enter` | Botão `B` (Xbox) / `O` (PS) |
 
 ## Observações finais
-Para uso do banco de dados para guardar os scores dos jogadores, apenas instale o arquivo PLAYERS_DB.sql e utilize o código mysql no seu computador local.
+Para somente jogar o jogo, utilize o SuperSenacBrosEXE, para mais detalhes do código acesse o SuperSenacBros em uma IDE.
 
 ## Desenvolvedores
  
