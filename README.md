@@ -38,7 +38,7 @@ Para uso do banco de dados para guardar os scores dos jogadores, apenas instale 
  
 **Arthur Cardoso Padilha** - Desenvolvimento e Lógica - [Padilh4](https://github.com/Padilh4)
 
-**Carlos Henrique Cardozo** - Designer do mapa e texturas
+**Carlos Henrique Cardozo** - Designer do mapa e texturas [Carlos-CardozoS](https://github.com/Carlos-CardozoS)
 
 **Mizael Da Rosa Giehl** - Designer principal - [Mizael-Giehl](https://github.com/Mizael-Giehl)
 
