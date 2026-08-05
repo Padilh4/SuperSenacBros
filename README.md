@@ -41,5 +41,3 @@ Para uso do banco de dados para guardar os scores dos jogadores, apenas instale 
 **Carlos Henrique Cardozo** - Designer do mapa e texturas [Carlos-CardozoS](https://github.com/Carlos-CardozoS)
 
 **Mizael Da Rosa Giehl** - Designer principal - [Mizael-Giehl](https://github.com/Mizael-Giehl)
-
-Feito com muita dedicação e código (e algumas batalhas contra o Gradle e o Tiled)! 👾
